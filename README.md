@@ -34,8 +34,20 @@
   - [x] Increase regularization parameter (Fix high variance)
   - [x] Neural network often low bias, so just add more data
 - [x] How to collect more data?
-  - [ ] Augmentation (transform x -> x' but still same y)
-- [ ] Desision tree
+  - [x] Augmentation (transform x -> x' but still same y)
+  - [x] Tranfer learning
+- [x] ML development process
+- [x] Unethical side of ML
+- [x] Skewed dataset, precision, recall, F1 score
+- [x] Desision tree
+  - [x] When to stop spliting?
+  - [x] Impurity, Entropy
+  - [x] Information gain
+  - [x] One hot encoding (split feature)
+  - [x] Continuous feature
+  - [x] Regression decision tree (use variance)
+  - [x] Tree ensemble
+  - [x] Sample replacement, random forest, XGBoost
 - [ ] Unsupervised learning
   - [ ] K-means
   - [ ] PCA
