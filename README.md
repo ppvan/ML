@@ -32,5 +32,18 @@
   - [x] Add polynomial features (Fix high bias)
   - [x] Decrease regularization parameter (Fix high bias)
   - [x] Increase regularization parameter (Fix high variance)
-- [x] Neural network often low bias
+  - [x] Neural network often low bias, so just add more data
+- [x] How to collect more data?
+  - [ ] Augmentation (transform x -> x' but still same y)
+- [ ] Desision tree
+- [ ] Unsupervised learning
+  - [ ] K-means
+  - [ ] PCA
+  - [ ] Anomaly detection
+- [ ] Reinforcement learning (learnt in AI class this semester)
+  - [x] Markov Decision Process
+  - [x] Q-learning
+  - [x] Bellman equation
+  - [ ] Policy gradient
+- [ ] Continuously space
 - [ ] ...More to come
