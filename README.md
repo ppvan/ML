@@ -49,9 +49,10 @@
   - [x] Tree ensemble
   - [x] Sample replacement, random forest, XGBoost
 - [ ] Unsupervised learning
-  - [ ] K-means
-  - [ ] PCA
-  - [ ] Anomaly detection
+  - [x] K-means, Elbow method
+  - [x] Anomaly detection
+    - [x] Normal distribution
+    - [x] Choosing epsilon
 - [ ] Reinforcement learning (learnt in AI class this semester)
   - [x] Markov Decision Process
   - [x] Q-learning
