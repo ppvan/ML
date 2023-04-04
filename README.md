@@ -53,6 +53,9 @@
   - [x] Anomaly detection
     - [x] Normal distribution
     - [x] Choosing epsilon
+- [x] Recommended system
+  - [x]  Collaborative filtering 
+  - [x]  Collaborative filtering binary rating
 - [ ] Reinforcement learning (learnt in AI class this semester)
   - [x] Markov Decision Process
   - [x] Q-learning
