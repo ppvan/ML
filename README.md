@@ -55,11 +55,11 @@
     - [x] Choosing epsilon
 - [x] Recommended system
   - [x]  Collaborative filtering 
-  - [x]  Collaborative filtering binary rating
+  - [x]  Content based filtering
 - [ ] Reinforcement learning (learnt in AI class this semester)
   - [x] Markov Decision Process
   - [x] Q-learning
   - [x] Bellman equation
-  - [ ] Policy gradient
-- [ ] Continuously space
-- [ ] ...More to come
+  - [x] Continoues State Space
+  - [x] Neural Network for Q-learning
+  - [x] Mini batch, soft update
