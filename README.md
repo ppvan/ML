@@ -48,7 +48,7 @@
   - [x] Regression decision tree (use variance)
   - [x] Tree ensemble
   - [x] Sample replacement, random forest, XGBoost
-- [ ] Unsupervised learning
+- [x] Unsupervised learning
   - [x] K-means, Elbow method
   - [x] Anomaly detection
     - [x] Normal distribution
@@ -56,10 +56,12 @@
 - [x] Recommended system
   - [x]  Collaborative filtering 
   - [x]  Content based filtering
-- [ ] Reinforcement learning (learnt in AI class this semester)
+- [x] Reinforcement learning (learnt in AI class this semester)
   - [x] Markov Decision Process
   - [x] Q-learning
   - [x] Bellman equation
   - [x] Continoues State Space
   - [x] Neural Network for Q-learning
   - [x] Mini batch, soft update
+
+## Deep learning
