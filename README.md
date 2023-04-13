@@ -65,3 +65,8 @@
   - [x] Mini batch, soft update
 
 ## Deep learning
+
+  - [x] Computation graph
+  - [x] Derivative chain rule (Đạo hàm của hàm hợp)
+  - [x] Vectorization
+  - [x] Broadcasting in numpy
