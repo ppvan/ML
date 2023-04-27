@@ -70,3 +70,14 @@
   - [x] Derivative chain rule (Đạo hàm của hàm hợp)
   - [x] Vectorization
   - [x] Broadcasting in numpy
+  - [x] Regularization
+  - [x] Drop out regularization
+  - [x] Normalization (từ xác suất thống kê)
+  - [x] Vanishing/ Exploding gradient (very deep network problem)
+  - [x] Gradient checking
+  - [ ] Mini batch
+  - [ ] Exponentlly weighted average (trung bình động)
+  - [ ] Bias correction
+  - [ ] Gradient descent with momentum
+  - [ ] RMSprop
+  - [ ] 
