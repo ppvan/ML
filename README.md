@@ -75,9 +75,14 @@
   - [x] Normalization (từ xác suất thống kê)
   - [x] Vanishing/ Exploding gradient (very deep network problem)
   - [x] Gradient checking
-  - [ ] Mini batch
-  - [ ] Exponentlly weighted average (trung bình động)
-  - [ ] Bias correction
-  - [ ] Gradient descent with momentum
-  - [ ] RMSprop
-  - [ ] 
+  - [x] Mini batch
+  - [x] Exponentlly weighted average (trung bình động)
+  - [x] Bias correction
+  - [x] Gradient descent with momentum
+  - [x] RMSprop
+  - [x] Adam optimization
+  - [x] Learning rate decay
+  - [x] Tuning hyperparameters (learning rate > beta > mini batch size > hidden layer size > number of layers)
+  - [x] Sampling scale
+  - [x] Pandas vs Caviar approach
+  - [x] Batch normalization (normalize z of layer[i])
