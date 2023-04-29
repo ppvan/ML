@@ -86,3 +86,7 @@
   - [x] Sampling scale
   - [x] Pandas vs Caviar approach
   - [x] Batch normalization (normalize z of layer[i])
+  - [x] Human Performance, Bayes Optimal Error
+  - [x] Tunning model for performance
+  - [ ] Data mismatch
+  - [ ] Train-Dev set
