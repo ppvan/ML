@@ -88,5 +88,9 @@
   - [x] Batch normalization (normalize z of layer[i])
   - [x] Human Performance, Bayes Optimal Error
   - [x] Tunning model for performance
-  - [ ] Data mismatch
-  - [ ] Train-Dev set
+  - [x] Data mismatch
+  - [x] Train-Dev set
+  - [x] Multitask and transfer learning
+  - [x] End-to-end deep learning
+  - [x] Convolutional Neural Network
+  - [x] Max pooling, Average pooling
