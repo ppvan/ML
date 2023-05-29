@@ -1,5 +1,7 @@
 {
     "python.analysis.typeCheckingMode": "basic",
     "files.autoSave": "onFocusChange",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "python.formatting.provider": "black",
 }
